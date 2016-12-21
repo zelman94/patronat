@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "patronat/1.0.0": {
+      "ConsoleApp1/1.0.0": {
         "runtime": {
-          "patronat.dll": {}
+          "ConsoleApp1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "patronat/1.0.0": {
+    "ConsoleApp1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

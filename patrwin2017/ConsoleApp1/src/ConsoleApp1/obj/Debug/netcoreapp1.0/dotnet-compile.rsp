@@ -1,5 +1,5 @@
---temp-output:c:\users\paweł\documents\visual studio 2015\Projects\patronat\src\patronat\obj\Debug\netcoreapp1.0\
---out:c:\users\paweł\documents\visual studio 2015\Projects\patronat\src\patronat\bin\Debug\netcoreapp1.0\patronat.dll
+--temp-output:c:\users\paweł\documents\visual studio 2015\Projects\ConsoleApp1\src\ConsoleApp1\obj\Debug\netcoreapp1.0\
+--out:c:\users\paweł\documents\visual studio 2015\Projects\ConsoleApp1\src\ConsoleApp1\bin\Debug\netcoreapp1.0\ConsoleApp1.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -8,7 +8,7 @@
 --suppress-warning:CS1705
 --optimize:False
 --emit-entry-point:True
---output-name:patronat
+--output-name:ConsoleApp1
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -86,5 +86,5 @@
 --reference:C:\Users\Paweł\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Paweł\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Paweł\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-c:\users\paweł\documents\visual studio 2015\Projects\patronat\src\patronat\Program.cs
-c:\users\paweł\documents\visual studio 2015\Projects\patronat\src\patronat\Properties\AssemblyInfo.cs
+c:\users\paweł\documents\visual studio 2015\Projects\ConsoleApp1\src\ConsoleApp1\Program.cs
+c:\users\paweł\documents\visual studio 2015\Projects\ConsoleApp1\src\ConsoleApp1\Properties\AssemblyInfo.cs

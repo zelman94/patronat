@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>20a96b54-6ecc-48ae-b646-88fdc18dec8b</ProjectGuid>
-    <RootNamespace>patronat</RootNamespace>
+    <ProjectGuid>dc7b3746-d055-45bb-99c3-2fb9f59cbc96</ProjectGuid>
+    <RootNamespace>ConsoleApp1</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
